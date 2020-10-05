@@ -23,4 +23,4 @@ if U HAVE ANY questions!
 1599137080@qq.com 
 IFYKYKYK
 `
-![donate]("https://i.ibb.co/pdr5Ggg/20200706212328.jpg")
+![donate]("http://github.com/googidaddy/vue3-demo/tree/main/image/donate.jpg")
