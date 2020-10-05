@@ -1,2 +1,7 @@
-# vue3-demo
-Building Vue3 demo
+### vue3-demo
+```
+npm run serve to Start!!!
+```
+`
+IFYKYKYK
+`
