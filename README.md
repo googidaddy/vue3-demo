@@ -1,25 +1,26 @@
 > vue3-demo
 ```
-*npm run serve to Start!!!*
+npm run serve to Start!!!
 ```
 
 ### Compiles and hot-reloads for development
 ```
-*npm run serve*
+npm run serve
 ```
 
 ### Compiles and minifies for production*
 ```
-*npm run build*
+npm run build
 ```
 
 ### Lints and fixes files
 ```
-*npm run lint*
+npm run lint
 ```
 
 `
-*1599137080@qq.com* if U HAVE ANY questions! 
-*IFYKYKYK*
+if U HAVE ANY questions! 
+1599137080@qq.com 
+IFYKYKYK
 `
-![by alipay]("https://i.ibb.co/pdr5Ggg/20200706212328.jpg")
+![donate]("https://i.ibb.co/pdr5Ggg/20200706212328.jpg")
